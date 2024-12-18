@@ -1,5 +1,5 @@
 let celsius = 25;
-let fahrenheit = (celsius * 9) / 5 + 32;
+let fahrenheit = (celsius * 1.8) + 32;
 console.log(`Температура в Фаренгейтах: ${fahrenheit}`);
 
 let daysInMonth = 30;
